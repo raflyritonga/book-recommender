@@ -33,7 +33,7 @@ A semantic book recommendation system that utilizes large language models (LLMs)
     ```
 
 ## Contributing
-Contributions are welcome! Please fork the repository, explore the `programs` folder for the core logic, and submit a pull request with your improvements.
+Contributions are welcome! Please fork the repository, explore the `program` folder for the core logic, and submit a pull request with your improvements.
 
 ## License
 This project is licensed under the MIT License.
