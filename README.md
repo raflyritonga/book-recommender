@@ -28,7 +28,7 @@ A semantic book recommendation system that utilizes large language models (LLMs)
     ```
 4. Run the application:
     ```bash
-    cd /programs
+    cd /program
     python gradio-dashboard.py
     ```
 
